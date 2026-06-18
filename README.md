@@ -2,7 +2,7 @@
 
 
 
-### Automation Engineer • AI for Industry • Computer Vision • DeepLearning • MachineLearning
+### Automation Engineer • AI for Industry • Computer Vision • DeepLearning • MachineLearning • Robotics
 
 I build practical automation and AI solutions that connect **OT + IT** — from PLC logic and industrial communication to computer vision, FastAPI backends, and dashboards.
 
